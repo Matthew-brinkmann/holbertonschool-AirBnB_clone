@@ -1,7 +1,7 @@
 # ⛱️ AirBnB Clone Project - Web Static
 ![hbnb](https://user-images.githubusercontent.com/91517809/176107896-998e3280-f565-4e09-a801-c609984bfed6.png)
 
-The web static part of this project is written to give an understanding of HTML and CSS and how to construct a web site for th client side.
+The web static part of this project is written to give an understanding of HTML and CSS and how to construct a web site for the client side.
 Before developing a big and complex web application, we will build the front end step-by-step.
 
 The first step is to “design” / “sketch” / “prototype” each element:
