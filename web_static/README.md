@@ -17,3 +17,5 @@ This project is W3C compliant and written using HTML and CSS
 All web static tasks are stored inside the folder ./web_static  
 .css files are stored inside ./styles  
 All images are stored inside ./images
+## ✍🏽 Authors for Web Static
+- Matthew Brinkmann   
